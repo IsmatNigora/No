@@ -1,0 +1,2 @@
+﻿fio;login;pass;secret;secretanswer;job;departament
+6f;6l;6p;6s;6sa;6j;6d

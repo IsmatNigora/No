@@ -1,0 +1,6 @@
+﻿id;fio;login;pass;gro
+2;Березина Елизавета Владимировна;be_l@yandex.ru;be_p;1bpm
+3;Викторов Антон Павлович;vi_l@yandex.ru;vi_p;1bpm
+4;Долгорук Дамир Андреевич;do_l@yandex.ru;do_p;1bpm
+5;Ежова Мария Сергеевна;ye_l@yandex.ru;ye_p;1bpm
+6;Зубеев Иван Алексеевич;zu_l@yandex.ru;zu_p;1bpm
